@@ -114,4 +114,8 @@
     <!-- FPS Counter -->
     <string name="fps_info_title">FPS Counter</string>
 
+    <!-- Touchsampling -->
+    <string name="htsr_title">Touch Responsiveness</string>
+    <string name="htsr_enable_title">Increase Touch Responsiveness</string>
+    <string name="htsr_enable_summary">Increases touch polling rate to decrease latency</string>
 </resources>
