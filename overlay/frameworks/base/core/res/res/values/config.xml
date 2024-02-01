@@ -386,4 +386,7 @@
    <string name="config_batCurCap">/sys/class/power_supply/bms/charge_full</string>
   <bool name="config_supportBatteryHealth">true</bool>
 
+    <!--Useful to improve signal reception -->
+     <bool name="config_ignoreRssnrSignalLevel">true</bool>
+
 </resources>
